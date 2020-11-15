@@ -1,4 +1,4 @@
-### [👋](https://telegram.dog/indusbots) i'm [Benchamxd](https://telegram.me/Benchamxd),
+### [👋](https://telegram.dog/indusbots) I'm [Benchamxd](https://telegram.me/Benchamxd),
 
 
 Here are some ideas to get you started:
