@@ -1,8 +1,5 @@
 ### [👋](https://telegram.dog/indusbots) I'm [Benchamxd](https://telegram.me/Benchamxd),
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working with Php
 - 🌱 I’m currently studying
 - 👯 I’m looking to collaborate on project
