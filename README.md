@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on project
 - 💬 Ask me about PHP
 - 📫 How to reach me: [BenchamXd](https://telegram.me/Benchamxd)
-- ⚡ Fun fact: im a noob
+- ⚡ Fun fact: im a noob 
 -->
 
 ### Available 👇
